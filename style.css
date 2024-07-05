@@ -11,12 +11,12 @@ img {
 }
 
 p {
-    text-indent: 10px;
+    text-indent: 30px;
 }
 
 .row {
     width: 100%;
-    margin-left: 0;
+    margin-left: 10;
 }
 
 .col {
@@ -31,4 +31,8 @@ p {
 .del {
   text-decoration: line-through;
 }
-
+/* Selecting the title element */
+title {
+  /* Setting the color property to red */
+  color: red;
+}
