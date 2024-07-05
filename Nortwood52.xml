@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2024</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1</note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5347" lry="7115" xml:id="facs_52">
+         <graphic url="0052_052_24v.jpeg" width="5347px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QKRHRPATBISNUDOECOAKIOXD&amp;fileType=view" width="5347px" height="7115px"/>
+         <zone points="4587,380 4928,380 4928,674 4587,674" rendition="TextRegion" xml:id="facs_52_r">
+            <zone points="4657,278 4841,278 4841,621 4657,621" rendition="Line" xml:id="facs_52_tr_1_tl_1"/>
+         </zone>
+         <zone points="105,915 4912,915 4912,6663 105,6663" rendition="TextRegion" xml:id="facs_52_tr_1">
+            <zone points="89,911 4568,911 4568,1391 89,1391" rendition="Line" xml:id="facs_52_tr_1_tl_2"/>
+            <zone points="83,1243 4841,1243 4841,1710 83,1710" rendition="Line" xml:id="facs_52_tr_1_tl_3"/>
+            <zone points="77,1556 4681,1556 4681,1988 77,1988" rendition="Line" xml:id="facs_52_tr_1_tl_4"/>
+            <zone points="107,1858 4586,1858 4586,2255 107,2255" rendition="Line" xml:id="facs_52_tr_1_tl_5"/>
+            <zone points="101,2124 4639,2124 4639,2610 101,2610" rendition="Line" xml:id="facs_52_tr_1_tl_6"/>
+            <zone points="136,2444 4835,2444 4835,2894 136,2894" rendition="Line" xml:id="facs_52_tr_1_tl_7"/>
+            <zone points="148,2769 4474,2769 4474,3184 148,3184" rendition="Line" xml:id="facs_52_tr_1_tl_8"/>
+            <zone points="124,3024 4758,3024 4758,3456 124,3456" rendition="Line" xml:id="facs_52_tr_1_tl_9"/>
+            <zone points="183,3337 4598,3337 4598,3758 183,3758" rendition="Line" xml:id="facs_52_tr_1_tl_10"/>
+            <zone points="148,3616 4604,3616 4604,4071 148,4071" rendition="Line" xml:id="facs_52_tr_1_tl_11"/>
+            <zone points="178,3923 2379,3923 2379,4391 178,4391" rendition="Line" xml:id="facs_52_tr_1_tl_12"/>
+            <zone points="1018,4255 4817,4255 4817,4639 1018,4639" rendition="Line" xml:id="facs_52_tr_1_tl_13"/>
+            <zone points="219,4521 4870,4521 4870,4988 219,4988" rendition="Line" xml:id="facs_52_tr_1_tl_14"/>
+            <zone points="237,4799 4835,4799 4835,5272 237,5272" rendition="Line" xml:id="facs_52_tr_1_tl_15"/>
+            <zone points="284,5148 4888,5148 4888,5521 284,5521" rendition="Line" xml:id="facs_52_tr_1_tl_16"/>
+            <zone points="272,5397 4852,5397 4852,5858 272,5858" rendition="Line" xml:id="facs_52_tr_1_tl_17"/>
+            <zone points="278,5740 4894,5740 4894,6160 278,6160" rendition="Line" xml:id="facs_52_tr_1_tl_18"/>
+            <zone points="290,6083 1568,6083 1568,6403 290,6403" rendition="Line" xml:id="facs_52_tr_1_tl_19"/>
+            <zone points="1231,6344 4900,6344 4900,6770 1231,6770" rendition="Line" xml:id="facs_52_tr_1_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_52" n="52" xml:id="img_0052"/>
+            <ab facs="#facs_52_r" type="">
+               <l facs="#facs_52_tr_1_tl_1" n="N001">23</l>
+            </ab>
+            <ab facs="#facs_52_tr_1" type="">
+               <p><l facs="#facs_52_tr_1_tl_2" n="N001">upon the second because it happens to be the one which is actually</l>
+               <l facs="#facs_52_tr_1_tl_3" n="N002">criminal. But it is evident to me that the logical way to approach</l>
+               <l facs="#facs_52_tr_1_tl_4" n="N003">the case is to begin by trying to throw some light upon the first</l>
+               <l facs="#facs_52_tr_1_tl_5" n="N004">incident - the curious will, so suddenly made and to as</l>
+               <l facs="#facs_52_tr_1_tl_6" n="N005">unexpected an heir. It may do something to simplify what</l>
+               <l facs="#facs_52_tr_1_tl_7" n="N006">followed. No, my dear fellow. I don't think you can help me.</l>
+               <l facs="#facs_52_tr_1_tl_8" n="N007">There is no prospect of danger or I should not dream of</l>
+               <l facs="#facs_52_tr_1_tl_9" n="N008">sturing out without you. I trust that when I see you in the</l>
+               <l facs="#facs_52_tr_1_tl_10" n="N009">evening I will be able to report that I have been able to do</l>
+               <l facs="#facs_52_tr_1_tl_11" n="N010">something for this unfortunate youngster who has thrown</l>
+               <l facs="#facs_52_tr_1_tl_12" n="N011">himself upon my protection?</l></p>
+               <p><l rend="indent" facs="#facs_52_tr_1_tl_13" n="N012">It was late when my friend returned and I could</l>
+               <l facs="#facs_52_tr_1_tl_14" n="N013">see at by a glance at his haggard and anxious face that the</l>
+               <l facs="#facs_52_tr_1_tl_15" n="N014">high hopes with which he had started had not been fulfilled.</l>
+               <l facs="#facs_52_tr_1_tl_16" n="N015">For an hour he droned away upon his violin, endeavouring</l>
+               <l facs="#facs_52_tr_1_tl_17" n="N016">to sooth his own muffled spirits. At last he plung down the</l>
+               <l facs="#facs_52_tr_1_tl_18" n="N017">instrument and plunged into a detailed account of his</l>
+               <l facs="#facs_52_tr_1_tl_19" n="N018">misadventures.</l></p>
+               <l rend="indent" facs="#facs_52_tr_1_tl_20" n="N019"><sp><speaker n="HOLMES"></speaker>"It's all going wrong, Watson - all as wrong</sp></l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
